@@ -5,12 +5,15 @@ Wskaźnik "MTF Candle Sticks" (Multi-Timeframe Candle Sticks) napisany w Pine Sc
 Główne funkcjonalności wskaźnika
 
 Wyświetlanie świec z różnych interwałów czasowych:
+
 -Wskaźnik umożliwia wybór do 5 różnych interwałów czasowych (np. 1 godzina, 4 godziny, dzień, tydzień, miesiąc).
+
 -Każdy interwał jest reprezentowany przez osobne świece, które są rysowane na wykresie głównym.
 
 Kolory świec:
--Zielone świece oznaczają wzrost (zamknięcie wyższe niż otwarcie).
--Czerwone świece oznaczają spadek (zamknięcie niższe niż otwarcie).
+-Zielone świece oznaczają wzrost (zamknięcie wyższe niż otwarcie)
+
+-Czerwone świece oznaczają spadek (zamknięcie niższe niż otwarcie)
 
 Cienie i korpusy świec:
 
